@@ -1,5 +1,5 @@
  PROGRAM entalpia
- IMPLICIT NONE
+ IMPLICIT NONE 
 
  INTEGER :: atomtypetot
  INTEGER :: err, i
