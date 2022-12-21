@@ -1,2 +1,2 @@
 # SEF Gaussian-n
-Standard Enthalpies of Formation using Gaussian-n composite energy methods. 
+A program to calculate Standard Enthalpies of Formation using Gaussian-n composite energy methods. 
