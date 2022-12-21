@@ -1,2 +1,2 @@
-# Enthalpy_of_formation_master_pt
-Program to calculate standard enthalpies of formation from electronic structure data
+# SEF Gaussian-n
+Standard Enthalpies of Formation using Gaussian-n composite energy methods. 
