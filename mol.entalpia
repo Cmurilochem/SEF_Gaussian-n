@@ -1,32 +1,32 @@
-4   
-C H O N 
-2 5 1 1
--37.827717
--0.501003
--75.030991
--54.564343
--209.065410
-21
-46.7663
-553.5548
-915.3422
-1242.1605
-1617.1701
-1988.0449
-3335.7105
-228.4403
-601.3041
-1078.8363
-1463.7526
-1628.9406
-3215.4788
-3837.0267
-448.1598
-696.1051
-1169.3464
-1562.2125
-1798.5918
-3275.3645
-3965.8881
-0.8929
-NOLIN
+4               % input example for Acetamide (C2H5NO); in this line, give the number of different types of atoms
+C H O N         % Types of atoms separated by a single space
+2 5 1 1         % the corresponding number of each of the constituent atoms in the molecule 
+-37.827717      % calculated energy of the first atom in the above list - C
+-0.501003       % calculated energy of the second atom - H
+-75.030991      % calculated energy of the third atom - O
+-54.564343      % calculated energy of the last atom - O
+-209.065410     % calculated energy of the Acetamide
+21              % number of harmonic frequencies 
+46.7663         % input harmonic frequencies in any order
+553.5548        % ....
+915.3422        % ....
+1242.1605       % ....
+1617.1701       % ....
+1988.0449       % ....
+3335.7105       % ....
+228.4403        % ....
+601.3041        % ....
+1078.8363       % ....
+1463.7526       % ....
+1628.9406       % .... 
+3215.4788       % .... 
+3837.0267       % ....
+448.1598        % ....
+696.1051        % ....
+1169.3464       % ....
+1562.2125       % ....
+1798.5918       % ....  
+3275.3645       % .... 
+3965.8881       % last harmonic frequency
+0.8929          % scaling factor that multiply harmonic frequencies
+NOLIN           % If the molecule is linear input "LIN, otherwise "NOLIN"
