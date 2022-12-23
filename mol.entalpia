@@ -1,11 +1,11 @@
-4               % input example for Acetamide (C2H5NO); in this line, give the number of different types of atoms
+4               % input example for Acetamide (C2H5NO) using the G3 theory; in this line, give the number of different atom types
 C H O N         % Types of atoms separated by a single space
 2 5 1 1         % the corresponding number of each of the constituent atoms in the molecule 
 -37.827717      % calculated energy of the first atom in the above list - C
 -0.501003       % calculated energy of the second atom - H
 -75.030991      % calculated energy of the third atom - O
--54.564343      % calculated energy of the last atom - O
--209.065410     % calculated energy of the Acetamide
+-54.564343      % calculated energy of the last atom - N
+-209.065410     % calculated energy of Acetamide
 21              % number of harmonic frequencies 
 46.7663         % input harmonic frequencies in any order
 553.5548        % ....
